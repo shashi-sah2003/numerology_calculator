@@ -1,0 +1,4 @@
+#Sat Jan 13 00:26:26 IST 2024
+base.0=D\:\\numerology_calculator\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
